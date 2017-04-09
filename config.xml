@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>Mr Gibsons Digital Classroom</name>
 
     <description>
-        Moodle Mobile official app
+        Ending the boredom of school
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://mrgibson.ca" email="dgibson@wvschools.ca">
+        David Gibson
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -90,7 +90,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
-        <param name="URL_SCHEME" value="moodlemobile" />
+        <param name="URL_SCHEME" value="mootes14" />
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5" />
